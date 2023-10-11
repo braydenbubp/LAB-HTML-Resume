@@ -1,3 +1,23 @@
 body {
   background-color: antiquewhite;
 }
+
+#military {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+#mcds {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.f16{
+  max-width: 300px;
+}
